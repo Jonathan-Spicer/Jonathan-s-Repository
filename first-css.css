@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #575457;
+}
+p {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#title {
+    color: #0e7434;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.description {
+    color: #ffffff;
+    text-align: center;
+    margin-top: 10px;
+}
